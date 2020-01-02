@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/RackHD/on-core.git"
+    "url": "https://github.com/yangxu-fit2cloud/on-core.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/RackHD/on-core/issues"
+    "url": "https://github.com/yangxu-fit2cloud/on-core/issues"
   },
-  "homepage": "https://github.com/RackHD/on-core",
+  "homepage": "https://github.com/yangxu-fit2cloud/on-core",
   "dependencies": {
     "ajv": "^4.1.0",
     "always-tail": "^0.2.0",
@@ -28,7 +28,7 @@
     "bson": "~0.4.22",
     "colors": "^1.0.3",
     "crypt3": "^1.0.0",
-    "di": "git+https://github.com/RackHD/di.js.git",
+    "di": "git+https://github.com/yangxu-fit2cloud/di.js.git",
     "ejs": "^2.0.8",
     "eventemitter2": "^0.4.14",
     "flat": "^1.6.0",

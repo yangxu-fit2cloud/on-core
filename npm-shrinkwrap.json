@@ -1,5 +1,4 @@
 {
-  "//": "Copyright 2018, Dell EMC, Inc.",
   "name": "on-core",
   "version": "2.60.7",
   "lockfileVersion": 1,
@@ -768,7 +767,7 @@
       "dev": true
     },
     "di": {
-      "version": "git+https://github.com/RackHD/di.js.git#f903386e063460930b757c11a1d510ca0a77f638",
+      "version": "git+https://github.com/yangxu-fit2cloud/di.js.git#1a15b61d89739a2b1d037a298d8ac0060b0a8e93",
       "requires": {
         "es6-shim": "0.11.1",
         "traceur": "0.0.111"
